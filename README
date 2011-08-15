@@ -1,0 +1,19 @@
+
+    _/        _/            _/          _/                                    _/
+   _/              _/_/_/  _/_/_/    _/_/_/_/  _/_/_/      _/_/_/    _/_/_/  _/  _/
+  _/        _/  _/    _/  _/    _/    _/      _/    _/  _/    _/  _/        _/_/
+ _/        _/  _/    _/  _/    _/    _/      _/    _/  _/    _/  _/        _/  _/
+_/_/_/_/  _/    _/_/_/  _/    _/      _/_/  _/_/_/      _/_/_/    _/_/_/  _/    _/
+                   _/                      _/
+              _/_/                        _/
+
+                        lightpack.googlecode.com
+
+
+Lightpack is a very simple implementation of the backlight for any computer.
+A couple of simple printed circuit boards, controller, led drivers, a few LEDs and lightpack is ready!
+
+Configuration program lives in the tray, without interfering with habitual work and watching movies.
+
+This repository contains API wrapper for Ruby.
+
