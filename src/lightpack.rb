@@ -39,7 +39,7 @@ class LightPack
 
   # Execute command and recieve an answer
   def exec_cmd(cmd)
-    @connection.send "#{cmd}\n"
+    @connection.send "#{cmd}\n", 0
     read_result
   end
 
